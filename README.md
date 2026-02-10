@@ -69,12 +69,12 @@ cricket-match-analytics/
 ### 📈 Over-wise Run Rate Comparison
 This chart compares the scoring efficiency of both innings across overs.
 
-![Over-wise Run Rate Comparison](images/over_wise_run_rate.png)
+![Over-wise Run Rate Comparison](over_wise_run_rate.png)
 
 ### 📉 Over-wise Cumulative Runs Comparison
 This chart highlights scoring momentum and key turning points in the match.
 
-![Cumulative Runs Comparison](images/cumulative_runs.png)
+![Cumulative Runs Comparison](cumulative_runs.png)
 
 
 ---
